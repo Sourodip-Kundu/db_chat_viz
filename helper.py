@@ -18,7 +18,7 @@ from examples import example
 
 import os
 
-os.environ["OPENAI_API_KEY"] = "sk-proj-ap5XrDDS5KvlvlsxWWo8T3BlbkFJ0DXw0pRH0K3xzqrOFFxO"
+os.environ["OPENAI_API_KEY"] = ""
 
 
 from  openai import OpenAI
